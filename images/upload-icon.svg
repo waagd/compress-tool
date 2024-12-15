@@ -1,0 +1,19 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- 西瓜主体 -->
+    <circle cx="32" cy="32" r="28" fill="#4CAF50"/>
+    <circle cx="32" cy="32" r="24" fill="#8BC34A"/>
+    
+    <!-- 上传箭头（白色） -->
+    <path d="M32 16L44 28H36V44H28V28H20L32 16Z" fill="white"/>
+    
+    <!-- 西瓜纹理 -->
+    <path d="M20 28C20 28 24 32 32 32C40 32 44 28 44 28" stroke="#388E3C" stroke-width="2"/>
+    <path d="M24 36C24 36 28 40 32 40C36 40 40 36 40 36" stroke="#388E3C" stroke-width="2"/>
+    
+    <!-- 可爱的眼睛 -->
+    <circle cx="28" cy="24" r="2" fill="#333"/>
+    <circle cx="36" cy="24" r="2" fill="#333"/>
+    
+    <!-- 微笑 -->
+    <path d="M28 32C28 32 30 34 32 34C34 34 36 32 36 32" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+</svg> 
